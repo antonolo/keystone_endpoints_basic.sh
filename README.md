@@ -1,4 +1,3 @@
-
 #!/bin/sh
 #
 # Keystone basic Endpoints
@@ -15,8 +14,8 @@
 
 
 # Host address
-HOST_IP=10.10.100.51
-EXT_HOST_IP=192.168.100.51
+HOST_IP=10.10.122.246
+EXT_HOST_IP=192.168.122.246
 
 
 # MySQL definitions
